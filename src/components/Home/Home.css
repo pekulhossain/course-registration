@@ -1,0 +1,81 @@
+
+  body{
+    background-color: #e5e4e4;
+  }
+  h1,h2,h3,h4,h5{
+    font-size: 16px;
+    font-style: initial;
+  }
+  .container{
+   display: flex;
+ 
+    width: 1200px;
+    gap: 20px;
+  }
+  .card{
+    width: 250px;
+    height: 350px;
+    padding: 4px;
+    background-color: white;
+    border-radius: 5px;
+  }
+  .card-container{
+    width: 900px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+  .cart{
+    width: 350px;
+    /* border: 2px solid red; */
+    text-align: start;
+    background-color: white;
+    border-radius: 5px;
+    padding-left: 20px;
+    height: 500px;
+  }
+  .photo{
+    width:240px;
+  }
+  .price-container{
+    display: flex;
+    justify-content: space-around;
+    margin-top:0;
+  }
+  .card-select-btn{
+    width: 100%;
+    background-color:#2F80ED;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    border: 1px solid transparent;
+    color: white;
+    border-radius: 5px;
+  
+  }
+  .pageheading{
+    font-size: 24px;
+  }
+  .courseName{
+    font-size: large;
+  }
+  .cartLi{
+    list-style-type: decimal;
+    padding-bottom: 5px;
+  }
+  .remainingCredit{
+    color: #2F80ED;
+    border-bottom: 1px solid grey;
+    padding-bottom: 10px;
+  }
+  .totalCreditHour{
+    border-bottom: 1px solid grey;
+    border-top: 1px solid grey;
+    padding: 10px 0px;
+
+  }
+  .cardPriceCredit{
+    font-style: initial;
+    font-size: large;
+    font-style: bold;
+  }

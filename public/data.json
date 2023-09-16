@@ -1,0 +1,111 @@
+[
+    {
+        "id": 1,
+        "name": "Introduction to C Programming",
+        "age": 51,
+        "credit":7500,
+        "image": "https://i.ibb.co/4PnXBst/Rectangle-2-2.png",
+        "price": 1,
+        "description":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "country": "USA",
+        "fbUrl":"https://www.facebook.com/",
+        "twitter": "https://twitter.com"
+    },
+    {
+        "id": 2,
+        "name": "Introduction to Algorithms",
+        "age": 95,
+        "credit":8790,
+        "image": "https://i.ibb.co/30x92Lx/Rectangle-2-3.png",
+        "price": 2,
+        "description":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "country": "USA",
+        "fbUrl":"https://www.facebook.com/",
+        "twitter": "https://twitter.com"
+    },
+    {
+        "id": 3,
+        "name": "Introduction to C++ for DSA",
+        "age": 71,
+        "credit": 1030,
+        "image": "https://i.ibb.co/x6n1b1S/Rectangle-2-4.png",
+        "price": 10,
+        "description":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "country": "USA",
+        "fbUrl":"https://www.facebook.com/",
+        "twitter": "https://twitter.com"
+    },
+    {
+        "id": 4,
+        "name": "Basic Data Structures",
+        "age": 65,
+        "credit":5908,
+        "image": "https://i.ibb.co/0t1xfRG/Rectangle-3.png",
+        "price": 5,
+        "description":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "country": "USA",
+        "fbUrl":"https://www.facebook.com/",
+        "twitter": "https://twitter.com"
+    },
+    {
+        "id": 5,
+        "name": "Introduction to OOP Python",
+        "age": 56,
+        "credit":5567,
+        "image": "https://i.ibb.co/LPNW2jT/Rectangle-2.png",
+        "price": 5,
+        "description":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "country": "USA",
+        "fbUrl":"https://www.facebook.com/",
+        "twitter": "https://twitter.com"
+    },
+    {
+        "id": 6,
+        "name": "Software Engineering",
+        "age": 40,
+        "credit":2980,
+        "image": "https://i.ibb.co/CWYDFbY/Rectangle-2-5.png",
+        "price": 2,
+        "description":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "country": "USA",
+        "fbUrl":"https://www.facebook.com/",
+        "twitter": "https://twitter.com"
+    },
+    {
+        "id": 7,
+        "name": "AWS, Cloud Computing",
+        "age": 37,
+        "credit":5000,
+        "image": "https://i.ibb.co/xhvYV37/Rectangle-3-1.png",
+        "price": 5,
+        "description":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "country": "USA",
+        "fbUrl":"https://www.facebook.com/",
+        "twitter": "https://twitter.com"
+    },
+    {
+        "id": 8,
+        "name": "Database (MySQL)",
+        "age": 53,
+        "credit":5908,
+        "image": "https://i.ibb.co/PxgtDQ5/Rectangle-2-1.png",
+        "price": 5,
+        "description":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "country": "USA",
+        "fbUrl":"https://www.facebook.com/",
+        "twitter": "https://twitter.com"
+    },
+    {
+        "id": 9,
+        "name": "Problem-Solving Part",
+        "age": 53,
+        "credit":2000,
+        "image": "https://i.ibb.co/9ZSVsTP/Rectangle-2-6.png",
+        "price": 2,
+        "description":"It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "country": "USA",
+        "fbUrl":"https://www.facebook.com/",
+        "twitter": "https://twitter.com"
+    }
+    
+]
